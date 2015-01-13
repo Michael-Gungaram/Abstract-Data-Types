@@ -1,0 +1,7 @@
+﻿<NUnitProject>
+  <Settings activeconfig="Default" />
+  <Config name="Default" binpathtype="Auto">
+    <assembly path="Home.ArrayListApp.dll" />
+    <assembly path="Home.ArrayListApp.Tests.dll" />
+  </Config>
+</NUnitProject>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\Michaël\Dropbox\Privé\Développement\C#\Projet_ArrayList\ArrayListApp\Home.ArrayListApp.Tests\bin\Debug\Home.ArrayListApp.Tests.dll" total="12" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2015-01-12" time="19:06:16">
+  <environment nunit-version="2.6.3.13283" clr-version="4.0.30319.34014" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Users\Michaël\Dropbox\Privé\Développement\C#\Projet_ArrayList\ArrayListApp\Home.ArrayListApp.Tests\bin\Debug" machine-name="TP800855" user="Michaël" user-domain="TP800855" />
+  <culture-info current-culture="fr-FR" current-uiculture="fr-FR" />
+  <test-suite type="Assembly" name="C:\Users\Michaël\Dropbox\Privé\Développement\C#\Projet_ArrayList\ArrayListApp\Home.ArrayListApp.Tests\bin\Debug\Home.ArrayListApp.Tests.dll" executed="True" result="Success" success="True" time="0.565" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="Home" executed="True" result="Success" success="True" time="0.564" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="ArrayListApp" executed="True" result="Success" success="True" time="0.564" asserts="0">
+            <results>
+              <test-suite type="Namespace" name="Tests" executed="True" result="Success" success="True" time="0.563" asserts="0">
+                <results>
+                  <test-suite type="TestFixture" name="Test" executed="True" result="Success" success="True" time="0.563" asserts="0">
+                    <results>
+                      <test-case name="Home.ArrayListApp.Tests.Test.clear_the_arrayList_correctly" executed="True" result="Success" success="True" time="0.027" asserts="3" />
+                      <test-case name="Home.ArrayListApp.Tests.Test.create_a_list_with_the_right_capacity" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                      <test-case name="Home.ArrayListApp.Tests.Test.get_an_item_at_a_negative_index_or_above_the_arrayList_capacity_throws_ArgumentOutofRangeException" executed="True" result="Success" success="True" time="0.101" asserts="1" />
+                      <test-case name="Home.ArrayListApp.Tests.Test.insert_at_an_index_and_get_the_right_element" executed="True" result="Success" success="True" time="0.004" asserts="4" />
+                      <test-case name="Home.ArrayListApp.Tests.Test.is_the_right_value" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                      <test-case name="Home.ArrayListApp.Tests.Test.now_can_add_an_element_even_the_arrayList_is_full" executed="True" result="Success" success="True" time="0.001" asserts="2" />
+                      <test-case name="Home.ArrayListApp.Tests.Test.now_can_insert_into_the_arrayList_even_its_full" executed="True" result="Success" success="True" time="0.001" asserts="2" />
+                      <test-case name="Home.ArrayListApp.Tests.Test.remove_out_capabilites_of_arrayList_throws_ArgumentException" executed="True" result="Success" success="True" time="0.180" asserts="2" />
+                      <test-case name="Home.ArrayListApp.Tests.Test.set_an_item_at_a_negative_index_or_above_the_arrayList_capacity_throws_ArgumentOutOfRangeException" executed="True" result="Success" success="True" time="0.183" asserts="2" />
+                      <test-case name="Home.ArrayListApp.Tests.Test.setItem_is_working_well" executed="True" result="Success" success="True" time="0.001" asserts="2" />
+                      <test-case name="Home.ArrayListApp.Tests.Test.test_of_the_indexer_implemented" executed="True" result="Success" success="True" time="0.002" asserts="2" />
+                      <test-case name="Home.ArrayListApp.Tests.Test.well_removed" executed="True" result="Success" success="True" time="0.000" asserts="2" />
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

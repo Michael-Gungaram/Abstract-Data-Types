@@ -1,0 +1,10 @@
+C:\Users\Michaël\Documents\Dev\C#\Projet_ArrayList\ArrayListApp\Home.ArrayListApp\bin\Debug\Home.ArrayListApp.dll
+C:\Users\Michaël\Documents\Dev\C#\Projet_ArrayList\ArrayListApp\Home.ArrayListApp\bin\Debug\Home.ArrayListApp.pdb
+C:\Users\Michaël\Documents\Dev\C#\Projet_ArrayList\ArrayListApp\Home.ArrayListApp\obj\Debug\Home.ArrayListApp.csprojResolveAssemblyReference.cache
+C:\Users\Michaël\Documents\Dev\C#\Projet_ArrayList\ArrayListApp\Home.ArrayListApp\obj\Debug\Home.ArrayListApp.dll
+C:\Users\Michaël\Documents\Dev\C#\Projet_ArrayList\ArrayListApp\Home.ArrayListApp\obj\Debug\Home.ArrayListApp.pdb
+C:\Users\Michaël\Dropbox\Privé\Développement\C#\Projet_ArrayList\ArrayListApp\Home.ArrayListApp\bin\Debug\Home.ArrayListApp.dll
+C:\Users\Michaël\Dropbox\Privé\Développement\C#\Projet_ArrayList\ArrayListApp\Home.ArrayListApp\bin\Debug\Home.ArrayListApp.pdb
+C:\Users\Michaël\Dropbox\Privé\Développement\C#\Projet_ArrayList\ArrayListApp\Home.ArrayListApp\obj\Debug\Home.ArrayListApp.csprojResolveAssemblyReference.cache
+C:\Users\Michaël\Dropbox\Privé\Développement\C#\Projet_ArrayList\ArrayListApp\Home.ArrayListApp\obj\Debug\Home.ArrayListApp.dll
+C:\Users\Michaël\Dropbox\Privé\Développement\C#\Projet_ArrayList\ArrayListApp\Home.ArrayListApp\obj\Debug\Home.ArrayListApp.pdb
