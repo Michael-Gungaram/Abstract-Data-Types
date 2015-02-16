@@ -115,7 +115,6 @@ namespace Home.ArrayListApp.Tests
             int value = 0;
             int value2 = 0;
             int value3 = 0;
-            int value4 = 0;
 
             array.Add(5);
             array.Add(10);
@@ -213,6 +212,39 @@ namespace Home.ArrayListApp.Tests
 
             Assert.That( value == 2 );
             Assert.That( changedValue == 6);
+        }
+
+        [Test]
+        public void pushing_on_the_stack()
+        {
+            Stack<int> stack = new Stack<int>();
+
+            stack.Push(5);
+            stack.Push(4);
+            stack.Push(3);
+            stack.Push(2);
+            stack.Push(1);
+
+            int value = stack.Peek();
+            Assert.That( value, Is.EqualTo( 1 ) );
+        }
+
+        [Test]
+        public void pop_a_value_on_the_stack()
+        {
+            Stack<int> stack = new Stack<int>();
+
+            stack.Push(6);
+            stack.Push(5);
+            stack.Push(4);
+            stack.Push(3);
+            stack.Push(2);
+            stack.Push(1);
+
+            int value = stack.Pop();
+            Assert.That( value == 1 );
+            int value2 = stack.Peek();
+            Assert.That( value2 == 2 ); 
         }
     }
 }
