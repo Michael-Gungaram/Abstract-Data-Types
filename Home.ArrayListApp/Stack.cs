@@ -11,7 +11,7 @@ namespace Home.ArrayListApp
         public Stack()
         {
             _stack = new ArrayList<T>( 5 );
-            _counter = 0;
+            _counter = 0 ;
         }
 
         public int Count
