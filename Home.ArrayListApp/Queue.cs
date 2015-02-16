@@ -8,9 +8,5 @@ namespace Home.ArrayListApp
 {
     public class Queue<T>
     {
-        public Queue()
-        {
-
-        }
     }
 }
