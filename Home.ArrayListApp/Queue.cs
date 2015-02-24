@@ -1,5 +1,5 @@
 ﻿/*
- * 17/02/2015 : must writted but must be tested with units tests.
+ * 17/02/2015 : writted but must be tested with units tests.
  * 
  * */
 
